@@ -270,6 +270,15 @@ hr {
   filter: alpha(opacity=80);
 }
 
+.bx-wrapper iframe  {
+    opacity: 0.2;
+  filter: alpha(opacity=20);
+    border: none;
+    width: 1600px;
+    height: 800px;
+
+}
+
 .bx-wrapper {
   background-color: #000000;
 }
