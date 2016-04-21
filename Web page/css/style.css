@@ -271,8 +271,8 @@ hr {
 }
 
 .bx-wrapper iframe  {
-    opacity: 0.2;
-  filter: alpha(opacity=20);
+    opacity: 0.8;
+  filter: alpha(opacity=80);
     border: none;
     width: 1600px;
     height: 800px;
