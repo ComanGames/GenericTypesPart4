@@ -262,17 +262,17 @@ hr {
 }
 .site-slider ul li {
   float: left;
-  margin: 0;
+    margin: initial;
 }
 
 .bx-wrapper img {
-  opacity: 0.8;
+  opacity: 1;
   filter: alpha(opacity=80);
 }
 
 .bx-wrapper iframe  {
     opacity: 0.8;
-  filter: alpha(opacity=80);
+   filter: alpha(opacity=80);
     border: none;
     width: 1600px;
     height: 800px;
